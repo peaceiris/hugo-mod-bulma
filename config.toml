@@ -1,6 +1,0 @@
-[module]
-[[module.imports]]
-path="github.com/jgthms/bulma"
-[[module.imports.mounts]]
-source = "sass"
-target = "assets/mod/bulma"

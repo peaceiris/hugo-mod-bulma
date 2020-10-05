@@ -1,0 +1,6 @@
+module:
+  imports:
+    - path: github.com/jgthms/bulma
+      mounts:
+        source: sass
+        target: assets/mod/bulma
