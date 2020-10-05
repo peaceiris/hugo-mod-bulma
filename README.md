@@ -22,3 +22,14 @@ module:
 @import "mod/bulma/utilities/_all.sass";
 @import "mod/bulma/base/_all.sass";
 ```
+
+In a Hugo template file.
+
+```html
+<head>
+  <style>
+    {{ $bulmaCSS := resources.Get "bulma.scss" | toCSS | minify }}
+    {{ $bulmaCSS.Content | safeCSS }}
+  </style>
+</head>
+```
