@@ -37,4 +37,6 @@ In a Hugo template file.
 
 ## Releases
 
-- [peaceiris/hugo-mod-bulma@v0.1.2](https://github.com/peaceiris/hugo-mod-bulma/releases/tag/v0.1.2): [jgthms/bulma@0.9.1](https://github.com/jgthms/bulma/releases/tag/0.9.1)
+| peaceiris/hugo-mod-bulma | jgthms/bulma |
+|---|---|
+[v0.1.2](https://github.com/peaceiris/hugo-mod-bulma/releases/tag/v0.1.2) | [0.9.1](https://github.com/jgthms/bulma/releases/tag/0.9.1) |
